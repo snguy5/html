@@ -1,0 +1,15 @@
+first tag tells type
+end tag ends the info
+head tag contains metadata
+the meta name tag allows for site to work on mobile devices
+body can contain header, main portion, footer
+aside creates side bar
+nav contains navigation links
+text needs to be in tags
+<p> for pararaphs
+<h>  for heading
+control shift p for adding <p> </p>
+need to link the html page to a style sheet (in css_?)
+html5, don't need to quote
+quotes can be double or single quotes
+css is more for style format 
